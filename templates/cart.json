@@ -14,7 +14,7 @@
         "in_post_star_rating_8eAPAd": {
           "type": "shopify:\/\/apps\/in-post\/blocks\/star_rating\/35102de4-2137-4231-befa-2075c7370e6e",
           "settings": {
-            "product": "",
+            "product": "the-3p-fulfilled-snowboard",
             "colour": "#ff0000"
           }
         }
