@@ -11,16 +11,16 @@
     "1706742943082abf27": {
       "type": "apps",
       "blocks": {
-        "in_post_star_rating_8eAPAd": {
+        "in_post_star_rating_KDkYe8": {
           "type": "shopify:\/\/apps\/in-post\/blocks\/star_rating\/35102de4-2137-4231-befa-2075c7370e6e",
           "settings": {
-            "product": "the-3p-fulfilled-snowboard",
+            "product": "",
             "colour": "#ff0000"
           }
         }
       },
       "block_order": [
-        "in_post_star_rating_8eAPAd"
+        "in_post_star_rating_KDkYe8"
       ],
       "settings": {
         "include_margins": true
